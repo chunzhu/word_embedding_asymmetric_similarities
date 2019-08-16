@@ -7,7 +7,7 @@ This work seeks to mine trained word vectors based on a see word, to discover wo
 
 # Simplified perspective
 I am trying to see if you say a person is your best friend, can we safely assume you are his best friend too? (This is symmetrical similar)
-Or that it is possible that you say a person is your best friend but he doesnt see you as his best friend? ( this is assymmetrical similar)
+Or that it is possible that you say a person is your best friend but he doesnt see you as his best friend? ( this is asymmetrical similar)
 
 # What i did
 I built a script to do various calculations to observe the results that will help me better understand this similarity property in embeddings. Did some caching feature to speed up calculations
